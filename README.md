@@ -40,7 +40,4 @@ Slice the falling fruits with your mouse to earn points — but don’t let them
 5. Game over when all 3 lives are lost.
 6. Click **"Reset Game"** to restart.
 
----
-
-## 📁 Folder Structure
 
