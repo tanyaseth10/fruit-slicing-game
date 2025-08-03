@@ -7,11 +7,6 @@ Slice the falling fruits with your mouse to earn points — but don’t let them
 
 ---
 
-## 📸 Preview
-
-![Fruit Slicing Game Screenshot](./Assets/img/screenshot.png) <!-- Optional: Add a real screenshot image here -->
-
----
 
 ## 🛠️ Technologies Used
 
